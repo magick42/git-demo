@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-Lorem ipsum dolor amet biodiesel live-edge taxidermy fugiat mumblecore dolore DIY VHS williamsburg.
-
-hgv;pgvvjbs;vodabv'odfvn;fjkvbf'vihfdvjbvdi;ikv
+1. index.html
